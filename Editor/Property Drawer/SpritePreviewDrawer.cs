@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace CRT.Attributes.Editor
+namespace Nrasix.CDRTools.Attributes.Editor
 {
     [CustomPropertyDrawer(typeof(SpritePreviewAttribute))]
     public class SpritePreviewDrawer : PropertyDrawer

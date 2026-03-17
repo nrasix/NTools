@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace CRT.Attributes
+namespace Nrasix.CDRTools.Attributes
 {
     [AttributeUsage(AttributeTargets.Field)]
     public class SpritePreviewAttribute : PropertyAttribute
