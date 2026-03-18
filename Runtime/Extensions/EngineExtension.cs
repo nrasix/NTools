@@ -1,4 +1,4 @@
-namespace Nrasix.CDRTools.Extensions
+namespace NTools.Extensions
 {
     public static class EngineExtension
     {
