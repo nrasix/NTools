@@ -1,0 +1,16 @@
+{
+    "name": "NTools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2d76fda717b2c274f834d0588d196255"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

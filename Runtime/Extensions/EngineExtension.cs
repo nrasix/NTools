@@ -1,3 +1,7 @@
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.UI;
+
 namespace NTools.Extensions
 {
     public static class EngineExtension
